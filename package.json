@@ -2,7 +2,7 @@
   "name": "vvwip",
   "version": "1.0.0",
   "description": "A simple badge to show the human status of your project in your README.",
-  "main": "index.js",
+  "main": "WIP.svg",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
