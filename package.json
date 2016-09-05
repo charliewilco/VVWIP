@@ -1,6 +1,6 @@
 {
   "name": "vvwip",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple badge to show the human status of your project in your README.",
   "main": "WIP.svg",
   "scripts": {
