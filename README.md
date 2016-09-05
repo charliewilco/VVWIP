@@ -2,6 +2,12 @@
 
 A simple badge to show the human status of your project in your README.
 
+## Badges
+![WIP](https://unpkg.com/vvwip/WIP.svg)
+![AWIP](https://unpkg.com/vvwip/AWIP.svg)
+![VWIP](https://unpkg.com/vvwip/VWIP.svg)
+![VVWIP](https://unpkg.com/vvwip/VVWIP.svg)
+![IGVP](https://unpkg.com/vvwip/IGVP.svg)
 
 ## Definitions
 
