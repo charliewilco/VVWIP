@@ -1,0 +1,20 @@
+{
+  "name": "vvwip",
+  "version": "1.0.0",
+  "description": "A simple badge to show the human status of your project in your README.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlespeters/VVWIP.git"
+  },
+  "keywords": [],
+  "author": "charles peters <charlespeters42@gmail.com> (https://charlespeters.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlespeters/VVWIP/issues"
+  },
+  "homepage": "https://github.com/charlespeters/VVWIP#readme"
+}
